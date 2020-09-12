@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+img{
+    width: 125px;
+    border: 6px solid  rgba(212, 212, 221, 0.6);;
+    height: 105px;
+}
+td{
+    padding: 3px;
+}
+
+table {
+    background-color: rgba(76, 76, 80, 0.6);
+  
+}
+.visibility{
+    visibility: hidden;
+}
+#submitBox{
+    background-color: rgba(212, 212, 221, 0.8);
+display: flex;
+width: 160px;
+height: 8vh;
+align-items: center;
+
+}
+#submitButton{
+    width: 26px;
+    height: 28px;
+    margin: 3px;
+    margin-right: 12px;
+
+}
+
+.select {
+    border: 6px solid rgb(38, 38, 39);
+}
+
+#imgSubmit{
+  position: relative;
+  left: 63px;
+  padding: 8px;
+  margin-bottom:3px ;
+  background-color: rgb(55, 55, 233);
+  color: white;
+  outline: none;
+   
+}
+
+#imgSubmit2{
+    position: relative;
+    left: 63px;
+    padding: 8px;
+    margin-bottom:3px ;
+    background-color: rgb(55, 55, 233);
+    color: white;
+    outline: none;
+     
+  }
+
+#table2{
+        position: absolute;
+        top: 36px;
+        
+    
+}
+.fa {
+    font-size: 3px;
+    color: green;
+}
